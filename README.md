@@ -1,4 +1,4 @@
 # system_design
-Design different systems
+Design of different systems
 
 Here I`m trying to design different systems by using https://excalidraw.com/
